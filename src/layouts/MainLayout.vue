@@ -3,7 +3,7 @@
     <!-- Header -->
     <q-header :class="['bs-header', { 'bs-header--scrolled': scrolled }]" height-hint="96">
       <q-toolbar class="bs-toolbar">
-        <router-link to="/" class="bs-brand">NovaIndustria</router-link>
+        <router-link to="/" class="bs-brand">NovaIndustria </router-link>
 
         <nav class="bs-nav gt-sm" aria-label="Navegación principal">
           <q-btn flat dense label="Soluciones" class="bs-link" />
